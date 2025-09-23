@@ -1,0 +1,65 @@
+Nome,Cognome,Sesso,Username,Professione,Ambito,Skillset,Status,Anni di Esperienza,Email,Password,ID_Progetto
+Luca,Rossi,M,lrossi,Web Developer,Informatica,HTML;CSS;JavaScript,Libero,5,lrossi@example.com,LucaRossi#2025,N/A
+Giulia,Bianchi,F,giubia,Data Analyst,Finanza,Python;SQL;Excel,Occupato,3,giulia.bianchi@example.com,GiuliaBia!93,2
+Marco,Verdi,M,marver,Graphic Designer,Design,Photoshop;Illustrator;Figma,Libero,7,marco.verdi@example.com,MarcoVerdi@77,N/A
+Elena,Neri,F,eleneri,Project Manager,Gestione Progetti,Agile;Scrum;Jira,Occupato,10,elena.neri@example.com,ElenaNeri*10,4
+Davide,Fontana,M,davfon,DevOps Engineer,Informatica,Docker;Kubernetes;CI/CD,Libero,6,davide.fontana@example.com,DavFontana_06,N/A
+Chiara,Conti,F,chiconti,Insegnante,Educazione,Didattica;Pedagogia;Comunicazione,Occupato,12,chiara.conti@example.com,ChiaraConti12!,5
+Matteo,Ferrara,M,matfer,Architetto,Edilizia,AutoCAD;SketchUp;Rendering,Libero,8,matteo.ferrara@example.com,MatFerrara_88,N/A
+Sara,Moretti,F,samore,Copywriter,Marketing,Scrittura Creativa;SEO;Storytelling,Occupato,4,sara.moretti@example.com,SaraMoretti@04,6
+Alessio,Galli,M,alegal,Medico,Sanità,Diagnosi;Chirurgia;Pronto Soccorso,Occupato,15,alessio.galli@example.com,AleGalli#15,7
+Francesca,Romano,F,frarom,Disoccupato,Nessuno,N/A,Libero,0,francesca.romano@example.com,FrancescaRomano00,N/A
+Paolo,Marini,M,paomar,Chef,Ristorazione,Cucina Italiana;Pasticceria;Menu Design,Occupato,9,paolo.marini@example.com,PaoloMarini_09,18
+Federica,Greco,F,fedgre,UX Designer,Design,Wireframing;Prototyping;User Research,Libero,5,federica.greco@example.com,FedGreco*05,N/A
+Simone,De Luca,M,simdel,Meccanico,Manifattura,Manutenzione;Diagnosi Guasti;Saldatura,Occupato,11,simone.deluca@example.com,SimDeluca#11,8
+Valentina,Serra,F,valser,Avvocato,Legale,Diritto Civile;Contrattualistica;Mediazione,Occupato,14,valentina.serra@example.com,ValSerra@14,17
+Andrea,Fiore,M,andfio,Musicista,Arte,Chitarra;Composizione;Registrazione,Libero,6,andrea.fiore@example.com,AndreaFiore_06,N/A
+Giorgia,Marchetti,F,giomar,Infermiere,Sanità,Assistenza Pazienti;Somministrazione Farmaci;Pronto Soccorso,Occupato,7,giorgia.marchetti@example.com,GioMarchetti07!,19
+Roberto,Grassi,M,robgra,Carpentiere,Edilizia,Taglio Legno;Assemblaggio;Progettazione,Libero,13,roberto.grassi@example.com,RobGrassi_13,N/A
+Martina,Colombo,F,marcol,Social Media Manager,Marketing,Content Creation;Analytics;Community Management,Occupato,4,martina.colombo@example.com,MarColombo04#,6
+Stefano,Barbieri,M,stebar,Analista di Sicurezza,Informatica,Cybersecurity;Penetration Testing;Firewall,Occupato,9,stefano.barbieri@example.com,SteBarbieri09@,21
+Laura,Parisi,F,laupar,Traduttore,Educazione,Inglese;Francese;Spagnolo,Libero,8,laura.parisi@example.com,LauParisi_08,N/A
+Nicola,Testa,M,nictes,Operaio,Manifattura,Assemblaggio;Controllo Qualità;Magazzino,Occupato,10,nicola.testa@example.com,NicTesta10!,25
+Silvia,Caruso,F,silcar,Psicologo,Sanità,Colloqui;Diagnosi;Terapia Cognitivo-Comportamentale,Occupato,12,silvia.caruso@example.com,SilCaruso12#,19
+Gabriele,Longo,M,gablon,Disoccupato,Nessuno,N/A,Libero,0,gabriele.longo@example.com,GabLongo00,N/A
+Marta,Leone,F,marleo,Segretaria,Amministrazione,Gestione Agenda;Archiviazione;Comunicazione,Occupato,6,marta.leone@example.com,MarLeone06@,24
+Pietro,Fabbri,M,piefab,Ingegnere Energetico,Energia,Progettazione;Analisi Consumi;Fonti Rinnovabili,Libero,7,pietro.fabbri@example.com,PieFabbri07!,9
+Anna,Giordano,F,anngio,Addetto Vendite,Vendite,Customer Service;POS;Visual Merchandising,Occupato,3,anna.giordano@example.com,AnnGiordano03#,26
+Tommaso,Mariani,M,tommar,Programmatore Backend,Informatica,Java;Spring;SQL,Libero,5,tommaso.mariani@example.com,TomMariani05@,N/A
+Serena,De Angelis,F,serdea,Designer di Interni,Design,Arredamento;Rendering;CAD,Occupato,9,serena.deangelis@example.com,SerDeAngelis09!,23
+Fabio,Monti,M,fabmon,Operatore Call Center,Servizi,CRM;Gestione Reclami;Vendita Telefonica,Occupato,2,fabio.monti@example.com,FabMonti02#,24
+Claudia,Farina,F,clafar,Assistente di Produzione,Media,Organizzazione;Logistica;Editing,Libero,4,claudia.farina@example.com,ClaFarina04@,N/A
+Emanuele,Ricci,M,emanric,Autista,Logistica,Guida;Consegne;Manutenzione Veicolo,Occupato,15,emanuele.ricci@example.com,EmaRicci15#,10
+Beatrice,Marini,F,beamari,Consulente HR,Risorse Umane,Recruitment;Formazione;Gestione Conflitti,Libero,8,beatrice.marini@example.com,BeaMarini08@,N/A
+Giovanni,Serafini,M,gioser,Operaio Edile,Edilizia,Muratura;Cemento;Sicurezza,Occupato,12,giovanni.serafini@example.com,GioSerafini12#,4
+Rita,Palumbo,F,ritpal,Segretaria di Studio Medico,Sanità,Gestione Pazienti;Agenda;Fatturazione,Occupato,5,rita.palumbo@example.com,RitPalumbo05@,19
+Alberto,Marchetti,M,albmar,Disoccupato,Nessuno,N/A,Libero,0,alberto.marchetti@example.com,AlbMarchetti00,N/A
+Sofia,Martini,F,sofmar,Analista Finanziario,Finanza,Excel;Forecasting;Reporting,Occupato,6,sofia.martini@example.com,SofMartini06#,22
+Enrico,De Santis,M,enrdes,Addetto Magazzino,Logistica,Inventario;Carico/Scarico;Barcode,Libero,3,enrico.desantis@example.com,EnrDeSantis03@,N/A
+Camilla,Vitale,F,camvit,Illustratrice,Arte,Disegno;Colorazione;Digital Painting,Occupato,7,camilla.vitale@example.com,CamVitale07#,13
+Lorenzo,Caputo,M,lorcap,Operaio Metalmeccanico,Manifattura,Saldatura;Tornio;Fresatura,Occupato,14,lorenzo.caputo@example.com,LorCaputo14@,25
+Nome,Cognome,Sesso,Username,Professione,Ambito,Skillset,Status,Anni di Esperienza,Email,Password,ID_Progetto
+Ilaria,Marchetti,F,ilamar,Consulente Marketing,Marketing,SEO;Campagne Ads;Analisi Dati,Libero,5,ilaria.marchetti@example.com,IlaMarchetti05#,N/A
+Riccardo,De Rosa,M,ricder,Allenatore Sportivo,Sport,Preparazione Atletica;Strategia;Motivazione,Occupato,10,riccardo.derosa@example.com,RicDeRosa10@,14
+Angela,Greco,F,anggre,Assistente Amministrativo,Amministrazione,Contabilità;Archiviazione;Gestione Agenda,Occupato,8,angela.greco@example.com,AngGreco08#,24
+Michele,Romano,M,microm,Operaio Agricolo,Agricoltura,Semina;Raccolta;Irrigazione,Libero,11,michele.romano@example.com,MicRomano11!,N/A
+Elisa,Mariani,F,elimar,Consulente Legale,Legale,Diritto Commerciale;Contratti;Compliance,Occupato,13,elisa.mariani@example.com,EliMariani13#,17
+Daniele,Serra,M,danser,Disoccupato,Nessuno,N/A,Libero,0,daniele.serra@example.com,DanSerra00,N/A
+Veronica,Fiore,F,verfio,Addetto Pulizie,Servizi,Igiene;Sanificazione;Organizzazione,Occupato,4,veronica.fiore@example.com,VerFiore04#,24
+Antonio,Leone,M,antleo,Ingegnere Civile,Edilizia,Progettazione;Calcoli Strutturali;CAD,Libero,9,antonio.leone@example.com,AntLeone09!,N/A
+Barbara,Fontana,F,barfon,Assistente Sociale,Sanità,Supporto Famiglie;Mediazione;Orientamento,Occupato,12,barbara.fontana@example.com,BarFontana12#,19
+Gianluca,Marini,M,giamar,Operatore CNC,Manifattura,Programmazione Macchine;Controllo Qualità;Manutenzione,Occupato,7,gianluca.marini@example.com,GiaMarini07@,25
+Patrizia,Colombo,F,patcol,Segretaria di Direzione,Amministrazione,Agenda;Comunicazione;Gestione Documenti,Libero,6,patrizia.colombo@example.com,PatColombo06!,N/A
+Cristian,De Luca,M,cridel,Operaio Portuale,Logistica,Carico/Scarico;Movimentazione Merci;Sicurezza,Occupato,15,cristian.deluca@example.com,CriDeluca15#,10
+Eleonora,Parisi,F,elepar,Consulente Immobiliare,Vendite,Valutazioni;Contratti;Marketing Immobiliare,Occupato,8,eleonora.parisi@example.com,EleParisi08@,26
+Massimo,Testa,M,mastest,Disoccupato,Nessuno,N/A,Libero,0,massimo.testa@example.com,MasTesta00,N/A
+Francesco,Caruso,M,fracar,Operaio Tessile,Manifattura,Tessitura;Taglio;Controllo Qualità,Occupato,11,francesco.caruso@example.com,FraCaruso11#,27
+Alessandra,Greco,F,alegre,Infermiera Pediatrica,Sanità,Assistenza Bambini;Somministrazione Farmaci;Educazione,Occupato,9,alessandra.greco@example.com,AleGreco09@,28
+Claudio,Romano,M,clarom,Analista Dati,Informatica,Python;R;SQL,Libero,5,claudio.romano@example.com,ClaRomano05!,N/A
+Monica,Serra,F,monser,Addetto Customer Care,Servizi,CRM;Gestione Reclami;Supporto Tecnico,Occupato,3,monica.serra@example.com,MonSerra03#,24
+Vittorio,Marchetti,M,vitmar,Operaio Alimentare,Manifattura,Produzione;Imballaggio;Controllo Qualità,Occupato,10,vittorio.marchetti@example.com,VitMarchetti10@,30
+Paola,Leone,F,paoleo,Consulente Finanziario,Finanza,Investimenti;Analisi Dati;Excel,Occupato,7,paola.leone@example.com,PaoLeone07#,2
+Stefania,De Angelis,F,stefdea,Web Designer,Design,HTML;CSS;Figma,Libero,4,stefania.deangelis@example.com,StefDeAngelis04!,N/A
+Fabian,Montanari,M,fabmon,Operaio Elettrico,Energia,Cablaggio;Manutenzione;Sicurezza,Occupato,12,fabian.montanari@example.com,FabMontanari12#,9
+Lucia,Greco,F,lucgre,Docente Universitario,Educazione,Didattica;Ricerca;Public Speaking,Occupato,15,lucia.greco@example.com,LucGreco15@,5
+Carlo,Vitale,M,carvit,Responsabile Marketing,Marketing,SEO;Campagne Ads;Branding,Occupato,14,carlo.vitale@example.com,CarVitale14#,6

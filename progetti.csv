@@ -1,0 +1,31 @@
+ID,Nome,Tipo(Ambito),Skills,Descrizione,Stato,Max_Persone
+1,Portale E-Commerce,Informatica,HTML;CSS;JavaScript;React,Sviluppo di un portale per la vendita online di prodotti artigianali,Disponibile,8
+2,Analisi Mercato Finanziario,Finanza,Python;SQL;Excel;Data Visualization,Progetto di analisi dati per individuare trend di investimento,Pieno,5
+3,Restyling Brand Aziendale,Design,Photoshop;Illustrator;Branding,Creazione di una nuova identità visiva per un'azienda di moda,Disponibile,6
+4,Gestione Cantieri,Edilizia,AutoCAD;SketchUp;Project Management,Implementazione di un sistema di monitoraggio lavori,Pieno,10
+5,Piattaforma E-Learning,Educazione,HTML;CSS;JavaScript;LMS,Creazione di un portale per corsi online interattivi,Disponibile,12
+6,Campagna Social Media,Marketing,Content Creation;SEO;Analytics,Strategia di comunicazione per il lancio di un nuovo prodotto,Pieno,7
+7,App di Telemedicina,Sanità,Flutter;API;Cybersecurity,Sviluppo di un'app per consulti medici a distanza,Disponibile,9
+8,Automazione Linea Produttiva,Manifattura,PLC;Robotica;Manutenzione,Ottimizzazione della produzione con sistemi automatizzati,Pieno,15
+9,Progetto Energia Verde,Energia,Fonti Rinnovabili;Analisi Consumi;CAD,Installazione di impianti fotovoltaici per aziende agricole,Disponibile,10
+10,Gestione Magazzino,Logistica,Inventario;Barcode;ERP,Digitalizzazione della gestione di magazzino,Pieno,6
+11,Portale Immobiliare,Vendite,PHP;MySQL;UX Design,Sviluppo di un sito per annunci immobiliari,Disponibile,8
+12,Podcast Culturale,Media,Editing Audio;Storytelling;Marketing,Produzione di un podcast su arte e cultura,Pieno,4
+13,Mostra Fotografica,Arte,Fotografia;Curatela;Allestimento,Organizzazione di una mostra di fotografia contemporanea,Disponibile,5
+14,App Allenamento,Sport,Flutter;UX;Gamification,Sviluppo di un'app per allenamenti personalizzati,Pieno,6
+15,Servizio di Consulenza HR,Risorse Umane,Recruitment;Formazione;Gestione Conflitti,Creazione di un portale per servizi HR,Disponibile,7
+16,Progetto Agricoltura Smart,Agricoltura,IoT;Sensoristica;Data Analysis,Monitoraggio colture con sensori intelligenti,Pieno,8
+17,Portale Legale,Legale,WordPress;SEO;Content Writing,Sito informativo su servizi legali,Disponibile,5
+18,App di Ricette,Ristorazione,React Native;UX;API,Sviluppo di un'app con ricette e consigli culinari,Pieno,6
+19,Progetto Inclusione Sociale,Sanità,Psicologia;Mediazione;Supporto Famiglie,Programma di supporto per famiglie in difficoltà,Disponibile,10
+20,Servizio di Traduzione,Educazione,Inglese;Francese;Spagnolo,Creazione di una piattaforma di traduzione online,Pieno,5
+21,Progetto Sicurezza Informatica,Informatica,Cybersecurity;Penetration Testing;Firewall,Implementazione di sistemi di sicurezza avanzati,Disponibile,6
+22,App Gestione Spese,Finanza,Java;Spring;SQL,Sviluppo di un'app per il monitoraggio delle spese personali,Pieno,5
+23,Progetto Interior Design,Design,Arredamento;Rendering;CAD,Ristrutturazione di interni per uffici moderni,Disponibile,7
+24,Servizio Customer Care,Servizi,CRM;Gestione Reclami;Supporto Tecnico,Implementazione di un sistema di assistenza clienti,Pieno,12
+25,Progetto CNC,Manifattura,Programmazione Macchine;Controllo Qualità;Manutenzione,Ottimizzazione della produzione meccanica,Disponibile,9
+26,Campagna Immobiliare,Vendite,Valutazioni;Contratti;Marketing Immobiliare,Promozione di immobili di lusso,Pieno,6
+27,Progetto Tessile,Manifattura,Tessitura;Taglio;Controllo Qualità,Produzione di tessuti ecosostenibili,Disponibile,8
+28,Progetto Pediatria,Sanità,Assistenza Bambini;Educazione;Somministrazione Farmaci,Creazione di un centro pediatrico innovativo,Pieno,10
+29,Progetto Analisi Dati,Informatica,Python;R;SQL,Analisi di grandi dataset per ricerca scientifica,Disponibile,6
+30,Progetto Alimentare,Manifattura,Produzione;Imballaggio;Controllo Qualità,Ottimizzazione della catena di produzione alimentare,Pieno,15
